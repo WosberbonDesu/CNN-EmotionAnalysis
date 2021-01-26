@@ -7,6 +7,6 @@ https://www.kaggle.com/c/challenges-in-representation-learning-facial-expression
 ### There are places written for google colab in many parts of the code.
 ### you can upload your own faces.
 ### You can use your own model or other models.
-### VeriKafasi.py  you can use it to train and predict your model.
+### VeriKafasi.ipnyb  you can use it to train and predict your model.
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 ![](https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif)
